@@ -52,5 +52,3 @@ P(A|B) = P(A) * P(B|A)/P(B) = (0.01 * 0.80) / 0.107 = 0.075 = %7
 
 * https://medium.com/@enginunal/bayes-teoremi-431543ad9a59
 * http://www.datascience.istanbul/2017/06/29/bayes-teoremi-giris/
-
-# bayes-theory
